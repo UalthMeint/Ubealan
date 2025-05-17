@@ -1,0 +1,288 @@
+/* Estilo general del cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+/* Estilo del título principal (h1) */
+h1 {
+    color: #4a5568;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+
+/* Contenedor para el selector de idioma */
+.language-container {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* Mensaje de selección de categoría */
+.category-message {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 18px;
+    color: #4a5568;
+    font-weight: bold;
+}
+
+/* Contenedor de los botones para cambiar entre español y lengua */
+.language-toggle {
+    display: flex;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* Estilo base de los botones de cambio de idioma */
+.toggle-btn {
+    flex: 1;
+    padding: 12px;
+    text-align: center;
+    background-color: #e2e8f0;
+    cursor: pointer;
+    color: #4a5568;
+    font-weight: normal;
+    transition: background-color 0.3s;
+}
+
+/* Estilo del botón de idioma activo/seleccionado */
+.toggle-btn.active {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+}
+
+/* Estilo específico para el primer botón (español) */
+.toggle-btn:first-child {
+    border-radius: 4px 0 0 4px;
+}
+
+/* Estilo específico para el segundo botón (lengua) */
+.toggle-btn:last-child {
+    border-radius: 0 4px 4px 0;
+    
+}
+
+/* Contenedor para las categorías */
+.categories-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+/* Estilo para los botones de categoría */
+.category-btn {
+    background-color: white;
+    border: 2px solid #4CAF50;
+    border-radius: 6px;
+    padding: 12px 8px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s;
+    color: #2d3748;
+    font-weight: 500;
+}
+
+.category-btn:hover {
+    background-color: #e6fffa;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.category-btn.active {
+    background-color: #4CAF50;
+    color: white;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Contenedor para la galería de palabras */
+#word-gallery {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Encabezado de la galería */
+#gallery-header {
+    font-size: 22px;
+    color: #4a5568;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #edf2f7;
+}
+
+/* Contenido de la galería */
+#gallery-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+    padding: 10px 0;
+}
+
+/* Tarjeta para cada palabra */
+.word-card {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: transform 0.3s;
+}
+
+.word-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+/* Contenedor de la imagen */
+.word-image {
+    background-color: #edf2f7;
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.word-image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+/* Detalles de la palabra */
+.word-details {
+    padding: 12px;
+}
+
+.word-espanol {
+    font-weight: bold;
+    color: #2d3748;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.word-lengua {
+    color: #4a5568;
+    font-size: 15px;
+    font-style: italic;
+}
+
+/* Paginación */
+#gallery-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+.pagination-btn {
+    background-color: #e2e8f0;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    cursor: pointer;
+    color: #4a5568;
+    font-size: 14px;
+    transition: all 0.2s;
+}
+
+.pagination-btn:hover {
+    background-color: #cbd5e0;
+}
+
+.pagination-btn.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.pagination-btn.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Mensaje de no hay palabras en esta categoría */
+.no-words-message {
+    text-align: center;
+    padding: 40px 20px;
+    color: #718096;
+    font-size: 16px;
+}
+
+/* Estilos específicos para dispositivos móviles */
+@media (max-width: 768px) {
+    .categories-container {
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    }
+    
+    #gallery-content {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+    
+    .word-image {
+        height: 120px;
+    }
+}
+/* Estilos para las etiquetas de idioma */
+.word-primary {
+    font-weight: bold;
+    color: #2d3748;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.word-secondary {
+    color: #4a5568;
+    font-size: 15px;
+}
+
+.lang-label {
+    font-style: italic;
+    font-size: 13px;
+    color: #718096;
+}
+
+/* Actualizar estilos antiguos para compatibilidad */
+.word-espanol, .word-lengua {
+    margin-bottom: 5px;
+}
+
+/* Estilo para la sección de instrucciones */
+.instructions {
+    margin-top: 30px; /* Espacio superior */
+    padding: 15px; /* Espacio interno */
+    background-color: #ebf8ff; /* Fondo azul muy claro */
+    border-radius: 8px; /* Esquinas redondeadas */
+    color: #2c5282; /* Color de texto azul oscuro */
+}
+
+/* Estilos para las etiquetas de idioma */
+.word-primary {
+    font-weight: bold;
+    color: #2d3748;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.word-secondary {
+    color: #4a5568;
+    font-size: 15px;
+}
+
+.lang-label {
+    font-style: italic;
+    font-size: 13px;
+    color: #718096;
+}

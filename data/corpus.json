@@ -1,0 +1,6817 @@
+[
+    {
+        "espanol": "Abanicar",
+        "lengua": "Rlanaa bæ",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Alargar",
+        "lengua": "Ruin sioal",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Alfarero",
+        "lengua": "Biini ni ruin guias",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Alfombra",
+        "lengua": "sn",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Amarrar",
+        "lengua": "Rliib",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Apretar",
+        "lengua": "Rguidia",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Apuñalar",
+        "lengua": "Rkiats bchiil",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Arcilla",
+        "lengua": "Cobain",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Atar",
+        "lengua": "Rliib",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Barrer",
+        "lengua": "Rloob",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Barro",
+        "lengua": "Cobain",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Bolsa de malla",
+        "lengua": "Petak",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Bronce",
+        "lengua": "Broans",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Cadena",
+        "lengua": "Cadæn",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Caer",
+        "lengua": "Riab",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Caminar",
+        "lengua": "Rsaa",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Canasta",
+        "lengua": "Dxiim",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Cargar",
+        "lengua": "Ruaa",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Carpintero",
+        "lengua": "Biini ni runæ dsain bræd",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Chupar",
+        "lengua": "Rshoip",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Cincel",
+        "lengua": "Cincæl",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Clavo",
+        "lengua": "Guichguiab",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Colgar",
+        "lengua": "Rdsiil",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Construir",
+        "lengua": "Runchæ",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Cortar",
+        "lengua": "Rtiug",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Cortar leña",
+        "lengua": "Rlaa yaag",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Cuerda",
+        "lengua": "Dua",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Desatar",
+        "lengua": "Rslaan",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Dividir",
+        "lengua": "Rlaa",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Doblar",
+        "lengua": "Rchaagsaa",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Echar",
+        "lengua": "Rlanaa",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Edificar",
+        "lengua": "Rlæs",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Enviar",
+        "lengua": "Rlakdaan",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Envolver",
+        "lengua": "Rguchæ",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Escoba",
+        "lengua": "Gob si'iñ",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Esculpir",
+        "lengua": "Rtiushein",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Escultor",
+        "lengua": "sn",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Esparcir",
+        "lengua": "Rtech",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Estaño",
+        "lengua": "Guiab stain",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Estatua",
+        "lengua": "sn",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Estera",
+        "lengua": "Buil",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Estirar",
+        "lengua": "Rgaa",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Estrujar",
+        "lengua": "Rcudsia",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Exprimir",
+        "lengua": "Rcudsia",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Extender",
+        "lengua": "Rslia",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Flotar",
+        "lengua": "Rbiab",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Formar",
+        "lengua": "Runchæ",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Frenar",
+        "lengua": "Rcuæds",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Frotar",
+        "lengua": "Rshoib",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Fundir",
+        "lengua": "Rsia",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Golpear",
+        "lengua": "Rcoa",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Guiar",
+        "lengua": "Rlui",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Hacha",
+        "lengua": "Guibiag",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Herramienta",
+        "lengua": "Rramiænt",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Herrero",
+        "lengua": "Goal guiab",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Jalar",
+        "lengua": "Rabiua",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Lavar",
+        "lengua": "Rguiib",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Machacar con el puño",
+        "lengua": "Rkitsna",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Martillo",
+        "lengua": "Martill",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Moldear",
+        "lengua": "Runchæ",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Montar",
+        "lengua": "Rbiab",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Nadar",
+        "lengua": "Rbiiab nisia",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Nudo",
+        "lengua": "Bgua",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Oprimir",
+        "lengua": "Rguidia",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Partir",
+        "lengua": "Riia",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Pegamento",
+        "lengua": "Cuan rkiid",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Perforar",
+        "lengua": "Rguiad",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Pintar",
+        "lengua": "Rtiia",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Pintura",
+        "lengua": "Rbelan",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Quebrado",
+        "lengua": "Bla'a",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Quebrar",
+        "lengua": "Rlaa",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Rasgar",
+        "lengua": "Rguisha",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Romper",
+        "lengua": "Rlaa",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Salpicar",
+        "lengua": "Rtiæs",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Saltar",
+        "lengua": "Rtiæs",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Serrucho",
+        "lengua": "Serruch",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Soga",
+        "lengua": "Dua",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Soplar",
+        "lengua": "Rloib",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Subir",
+        "lengua": "Rieip",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Talar",
+        "lengua": "Rtiug",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Tapete",
+        "lengua": "Daalaid",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Tijeras",
+        "lengua": "Tihær",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Tirar",
+        "lengua": "Rsæib",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Torcer",
+        "lengua": "Rcubieik",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Trabajar",
+        "lengua": "Dsain",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Traer",
+        "lengua": "Riætlæa",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Trepar",
+        "lengua": "Rcatæ",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Vaciar",
+        "lengua": "Rlat",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Vidrio",
+        "lengua": "Biadr",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Volar",
+        "lengua": "Rsua",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Volcar",
+        "lengua": "Raata",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Yunque",
+        "lengua": "Yuank",
+        "categoria": "Acciones"
+    },
+    {
+        "espanol": "Agricultor",
+        "lengua": "Biini ni raan",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Arar",
+        "lengua": "Rshaal loa yua",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Arroz",
+        "lengua": "Roaz",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Avena",
+        "lengua": "Abæn",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Azada",
+        "lengua": "sn",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Azadón",
+        "lengua": "sn",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Bellota",
+        "lengua": "Bgag",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Brote",
+        "lengua": "Bein",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Calabaza",
+        "lengua": "Guiat",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Camote",
+        "lengua": "Gua",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Campo de cultivo",
+        "lengua": "Dain raan",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Caña de azúcar",
+        "lengua": "Niat",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Cavar",
+        "lengua": "Rguæin",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Cebada",
+        "lengua": "Cebad",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Centeno",
+        "lengua": "Centæn",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Cerco",
+        "lengua": "Urrail",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Coco",
+        "lengua": "Cok",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Corteza",
+        "lengua": "Blaid",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Cosecha",
+        "lengua": "Rtop guiæl",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Cosechar",
+        "lengua": "Rtop",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Cultivar",
+        "lengua": "Raan",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Desgranar",
+        "lengua": "Runloa",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Excavar",
+        "lengua": "Rguein",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Flor",
+        "lengua": "Guiia",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Fumar",
+        "lengua": "Rgoob",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Grano",
+        "lengua": "Guiedx",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Guadaña",
+        "lengua": "sn",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Heno",
+        "lengua": "Guish",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Hierba",
+        "lengua": "Yæb",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Hoja",
+        "lengua": "Blag",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Hongo",
+        "lengua": "Bæa",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Hongos",
+        "lengua": "Ra bæa",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Horqueta",
+        "lengua": "Trinch",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Hoz",
+        "lengua": "Guiabgoaz",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Huerto",
+        "lengua": "Uært",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Manzana",
+        "lengua": "Manzan",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Ortiga",
+        "lengua": "sn",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Paja",
+        "lengua": "Guish",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Pala",
+        "lengua": "Paal",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Palmera",
+        "lengua": "Ya siin",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Papaya",
+        "lengua": "Papay",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Pasto",
+        "lengua": "Guisha",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Pino",
+        "lengua": "Yaguiats",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Pipa",
+        "lengua": "Piap",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Planta",
+        "lengua": "Yague",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Rama",
+        "lengua": "Naa yag",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Rastrillo",
+        "lengua": "Rastrill",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Roble",
+        "lengua": "sn",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Segar",
+        "lengua": "Ritiug guish",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Sembrar",
+        "lengua": "Rleik",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Semilla",
+        "lengua": "Bæds",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Seta",
+        "lengua": "Bæ'a",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Surco",
+        "lengua": "Shuark",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Tabaco",
+        "lengua": "Tabacu",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Trigo",
+        "lengua": "Triagu",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Tronco",
+        "lengua": "Nia yag",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Vid",
+        "lengua": "Yaub",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Yuca",
+        "lengua": "Gua yuk",
+        "categoria": "Agricultura"
+    },
+    {
+        "espanol": "Abeja",
+        "lengua": "Baasær",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Águila",
+        "lengua": "Bsiia",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Ala",
+        "lengua": "Shga",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Alacrán",
+        "lengua": "Begua",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Araña",
+        "lengua": "Bdsa",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Arteria",
+        "lengua": "Rteir",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Asno",
+        "lengua": "Buar",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Ave",
+        "lengua": "Manie",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Avispa",
+        "lengua": "Dxui'in",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Becerro",
+        "lengua": "Bag bædx",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Borrego",
+        "lengua": "Shiil",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Buey",
+        "lengua": "Goan",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Búho",
+        "lengua": "Daam",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Buitre",
+        "lengua": "Dxidx",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Burro",
+        "lengua": "Buar",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Caballo",
+        "lengua": "Main",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Cabra",
+        "lengua": "Dxiab",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Caracol",
+        "lengua": "sn",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Carnero",
+        "lengua": "Goal goan",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Cerdo",
+        "lengua": "Cuch",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Chivo",
+        "lengua": "Dxiab",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Cola",
+        "lengua": "Shban",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Colmena",
+        "lengua": "Shtieip",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Conejo",
+        "lengua": "Cunehu",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Coyote",
+        "lengua": "Cuyoit",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Cucaracha",
+        "lengua": "Bshacu",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Cuervo",
+        "lengua": "Bloa",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Culebra",
+        "lengua": "Bæl",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Gallina",
+        "lengua": "Guiid",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Gallo",
+        "lengua": "Guiid gai",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Ganado",
+        "lengua": "Goan",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Ganso",
+        "lengua": "Gans",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Garra",
+        "lengua": "Bshug",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Gato",
+        "lengua": "Biidx",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Gusano",
+        "lengua": "Blia",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Halcón",
+        "lengua": "sn",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Hembra",
+        "lengua": "Unaa",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Hormiga",
+        "lengua": "Bdiia",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Iguana",
+        "lengua": "Btiats",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Jabalí",
+        "lengua": "Cuch guish",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Jaguar",
+        "lengua": "Bæds biant",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Lagartija",
+        "lengua": "Bragu",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Lechuza",
+        "lengua": "Dam",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Lobo",
+        "lengua": "Bæcu cuyoit",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Lombriz",
+        "lengua": "Bælyua",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Loro",
+        "lengua": "Loar",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Luciérnaga",
+        "lengua": "sn",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Mapache",
+        "lengua": "sn",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Mariposa",
+        "lengua": "Bguiid",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Mono",
+        "lengua": "Goal",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Mosca",
+        "lengua": "Bkiedx",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Mosquito",
+        "lengua": "Bkiedx laas",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Mulo",
+        "lengua": "Mual",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Murciélago",
+        "lengua": "Guiidbsiin",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Nido",
+        "lengua": "Cuug",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Ocelote",
+        "lengua": "Bæds",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Oveja",
+        "lengua": "Shiil",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Pájaro",
+        "lengua": "Manie",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Paloma",
+        "lengua": "Gultia",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Pato",
+        "lengua": "Baad",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Perro",
+        "lengua": "Bæcu",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Pez",
+        "lengua": "Bæal",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Piojo",
+        "lengua": "Bæts",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Pollo",
+        "lengua": "Guiid",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Potrillo",
+        "lengua": "Main bædx",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Puerco",
+        "lengua": "Cuch",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Rana",
+        "lengua": "Gu'uiil",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Rata",
+        "lengua": "Bsi'in",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Saltamontes",
+        "lengua": "Daamdxia",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Semental",
+        "lengua": "Main diap",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Serpiente",
+        "lengua": "Bæl",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Ternero",
+        "lengua": "Goan Bædx",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Tiburón",
+        "lengua": "sn",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Toro",
+        "lengua": "Goan",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Tortuga",
+        "lengua": "Lægu",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Vaca",
+        "lengua": "Baag",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Venado",
+        "lengua": "Bdsain",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Yegua",
+        "lengua": "Main yæu",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Cien",
+        "lengua": "Toa gayua",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Diez",
+        "lengua": "Tsa'a",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Doce",
+        "lengua": "Tsaptiop",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Dos Veces",
+        "lengua": "Tiop uælt",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Lleno",
+        "lengua": "Dxa",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Mas",
+        "lengua": "Strua",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Mil",
+        "lengua": "Tsa'a mi'il mi'il",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Mitad",
+        "lengua": "Roal",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Mucho",
+        "lengua": "Staal",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Número",
+        "lengua": "Lab",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Once",
+        "lengua": "Tsaptobi",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Par",
+        "lengua": "Rop",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Poco",
+        "lengua": "Trua",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Primero",
+        "lengua": "Lioa",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Quince",
+        "lengua": "Tsoni",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Segundo",
+        "lengua": "Rop",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Tercero",
+        "lengua": "Yoan",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Todo",
+        "lengua": "Ratæ",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Tres Veces",
+        "lengua": "Choancua",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Ultimo",
+        "lengua": "Luiilt",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Vacío",
+        "lengua": "Dats",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Veinte",
+        "lengua": "Gal",
+        "categoria": "Cantidad"
+    },
+    {
+        "espanol": "Abrevadero",
+        "lengua": "Rikloani ria main",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Adobe",
+        "lengua": "Bsua",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Albañil",
+        "lengua": "Biini ni rsa yua",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Almohada",
+        "lengua": "sn",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Antorcha",
+        "lengua": "Ntorch",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Cama",
+        "lengua": "Loan",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Candado",
+        "lengua": "Candad",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Casa",
+        "lengua": "Yua",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Cera de abeja",
+        "lengua": "Seær",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Cerradura",
+        "lengua": "Cerraduar",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Cerrojo",
+        "lengua": "Cerroh",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Chimenea",
+        "lengua": "Lodæ",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Choza",
+        "lengua": "Yua guish",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Cobija",
+        "lengua": "Yatlas",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Cocina",
+        "lengua": "Yua rakchæ shirau",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Cuaderno",
+        "lengua": "Guiats cuadær",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Cuarto",
+        "lengua": "Nibdap",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Escalera",
+        "lengua": "Skiliær",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Estufa",
+        "lengua": "Guian ni rieik loani",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Fogón",
+        "lengua": "Loa dæ",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Fregadero",
+        "lengua": "Guila rguiib",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Jardín",
+        "lengua": "Solair",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Ladrillo",
+        "lengua": "Ladrill",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Lápiz",
+        "lengua": "Laip",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Lata",
+        "lengua": "Lat",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Lavadero",
+        "lengua": "Guila rguiib",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Llave",
+        "lengua": "Liæi",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Llave de agua",
+        "lengua": "Guiab nisia",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Manta",
+        "lengua": "Laid",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Mesa",
+        "lengua": "Meesh",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Mezcla",
+        "lengua": "Mæzcl",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Muro",
+        "lengua": "Padær",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Pared",
+        "lengua": "Tesh yua",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Patio",
+        "lengua": "Loa læ",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Pileta",
+        "lengua": "Chaa",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Poste",
+        "lengua": "Poast",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Puerta",
+        "lengua": "sn",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Recamara",
+        "lengua": "Yua ræis",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Repisa",
+        "lengua": "Yag teshyua",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Silla",
+        "lengua": "Ishiil",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Sostén de puerta",
+        "lengua": "Yag ni rnas puært",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Suelo",
+        "lengua": "Loa yua",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Tabla",
+        "lengua": "Bræd tabl",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Techo",
+        "lengua": "Ikiua",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Techo de paja",
+        "lengua": "Ik yua siin",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Toldo",
+        "lengua": "sn",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Tornillo ",
+        "lengua": "Gandæl",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Vela",
+        "lengua": "Gandæl",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Ventana",
+        "lengua": "Bentan",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Viga",
+        "lengua": "Biag",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Viga grande de techo",
+        "lengua": "Biag ni rnaas ikiua",
+        "categoria": "Casa"
+    },
+    {
+        "espanol": "Aceite",
+        "lengua": "Nseit",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Agua miel",
+        "lengua": "sn",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Ají",
+        "lengua": "Guiiñ",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Amasar",
+        "lengua": "Rteidnaa",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Aplastar",
+        "lengua": "Rcudxiia",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Asar",
+        "lengua": "Rkiia",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Azúcar",
+        "lengua": "Zuark",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Beber",
+        "lengua": "Riaa",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Bebida",
+        "lengua": "Shi guia",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Cacerola",
+        "lengua": "Caceroal",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Caldera",
+        "lengua": "Guias guiab",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Caldo",
+        "lengua": "Cald",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Cántaro",
+        "lengua": "Ræ",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Cazuela",
+        "lengua": "Casuæl",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Cernir",
+        "lengua": "Rbiib",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Cerveza",
+        "lengua": "Cerbæs",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Cítrico",
+        "lengua": "Guiana",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Cocinado",
+        "lengua": "Cayunchæ yalrau",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Cocinar",
+        "lengua": "Runchæ yalrau",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Colar",
+        "lengua": "Rbi'ib",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Comer",
+        "lengua": "Rau",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Comida",
+        "lengua": "Shirau",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Crudo",
+        "lengua": "Eit niai",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Crudo - cocinado",
+        "lengua": "Eit niai - ya guii",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Cuchara",
+        "lengua": "Cuchar",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Cuchillo",
+        "lengua": "Bchiil",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Desayuno",
+        "lengua": "Shirein",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Freír",
+        "lengua": "Rkia",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Frijol",
+        "lengua": "Bsia",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Fruta",
+        "lengua": "Nesh",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Hambre",
+        "lengua": "Rlian",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Harina",
+        "lengua": "Rian",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Hervir",
+        "lengua": "Rsliæib",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Hornear",
+        "lengua": "Rgu'ui lein oar",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Horno",
+        "lengua": "Oar",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Huevo",
+        "lengua": "Dtsbeid",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Inmaduro - maduro",
+        "lengua": "Yaa - Uyaa",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Jarro",
+        "lengua": "Ræ",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Leche",
+        "lengua": "Duad",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Legumbres",
+        "lengua": "Bsia",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Mano de mortero",
+        "lengua": "Guila roat",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Mantequilla",
+        "lengua": "sn",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Masa",
+        "lengua": "Cob",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Masticar",
+        "lengua": "Raas",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Mezclar",
+        "lengua": "Rguch",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Miel",
+        "lengua": "Dsain",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Mixturizar",
+        "lengua": "Rguch",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Moler",
+        "lengua": "Roat",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Mortero",
+        "lengua": "Guiringuiiñ",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Nuez",
+        "lengua": "Nuæz",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Olla",
+        "lengua": "Guiias",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Pan",
+        "lengua": "Ishtiil",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Papa",
+        "lengua": "Gua pap",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Pelar",
+        "lengua": "Rtiush",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Pimienta",
+        "lengua": "Pimiænt",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Platillo",
+        "lengua": "Shigau",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Plato",
+        "lengua": "Plat rau",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Podrido",
+        "lengua": "Biudx",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Pozole",
+        "lengua": "sn",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Queso",
+        "lengua": "Kiæs",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Racimo",
+        "lengua": "Rsiam",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Raspar",
+        "lengua": "Rtia",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Sal",
+        "lengua": "Seid",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Sofocar",
+        "lengua": "Rquibæ",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Sopa",
+        "lengua": "Gual",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Taza",
+        "lengua": "Taz",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Tazón",
+        "lengua": "Tazroa",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Tenazas",
+        "lengua": "Tenaz",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Tenedor",
+        "lengua": "Tenedoar",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Tragar",
+        "lengua": "Ræib",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Yema de huevo",
+        "lengua": "Beiñ doa",
+        "categoria": "Comida y Bebida"
+    },
+    {
+        "espanol": "Acertar",
+        "lengua": "Rniya",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Alumno",
+        "lengua": "Bini scuæl",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Aprender",
+        "lengua": "Rseid",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Concepto",
+        "lengua": "Shigab",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Después",
+        "lengua": "Ni bdeid ndæ",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Difícil",
+        "lengua": "Diap",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Dudar",
+        "lengua": "Eit gagbæ",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Enseñar",
+        "lengua": "Rlui",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Escuela",
+        "lengua": "Scuæl",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Estudiar",
+        "lengua": "Rseid",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Explicar",
+        "lengua": "Rlui",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Fácil",
+        "lengua": "Sencill",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Idea",
+        "lengua": "Shigab",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Imitar",
+        "lengua": "Rgubæ",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Loco",
+        "lengua": "Shein",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Mochila",
+        "lengua": "Muchial",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "No",
+        "lengua": "Eit",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Olvidar",
+        "lengua": "Biælaas",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Pensamiento",
+        "lengua": "Shigab",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Pensar",
+        "lengua": "Ruin Shigab",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Recordar",
+        "lengua": "Rnalaas",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Secreto",
+        "lengua": "Rgats",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Seguro",
+        "lengua": "Sikna",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Si",
+        "lengua": "Bal",
+        "categoria": "Conocimiento"
+    },
+    {
+        "espanol": "Ahogado",
+        "lengua": "sn",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Aliento",
+        "lengua": "Berua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Ampolla",
+        "lengua": "Btiæ",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Axila",
+        "lengua": "Lein shaku",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Babear",
+        "lengua": "Rlana bob",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Bañarse",
+        "lengua": "Ras",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Barba",
+        "lengua": "Guishluash",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Barbilla",
+        "lengua": "Dst rua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Boca",
+        "lengua": "Rua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Boquiabierto",
+        "lengua": "Shabshalrua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Bostezar",
+        "lengua": "Riuabcal loa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Brazo",
+        "lengua": "Shacu",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cabello",
+        "lengua": "Guidxik",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cabeza",
+        "lengua": "Ik",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cadáver",
+        "lengua": "Biini gu'uit",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cadera",
+        "lengua": "Shalein",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Calavera",
+        "lengua": "Dst biini",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Calvo",
+        "lengua": "Guiat",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cansado",
+        "lengua": "Bdxaglaads",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cara",
+        "lengua": "Loa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Carne",
+        "lengua": "Bæ'al",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Caspa",
+        "lengua": "Rbiads ik",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Catarro",
+        "lengua": "Shia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Ceja",
+        "lengua": "Gidxruabalo",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cerebro",
+        "lengua": "Cobik / Yobik",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cerilla",
+        "lengua": "Cerill",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cicatriz",
+        "lengua": "Diab",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Ciego",
+        "lengua": "Tiæp",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cintura",
+        "lengua": "Shalein",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Clavícula",
+        "lengua": "Claviacu",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Codo",
+        "lengua": "Shiib shaku",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cojo",
+        "lengua": "Rgabiua cuiid",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Corazón",
+        "lengua": "Lastoa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Costillas",
+        "lengua": "Dst cuæ tesh",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cráneo",
+        "lengua": "Dst ik",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cuerno",
+        "lengua": "Cach",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cuerpo de espaldas",
+        "lengua": "Næs dæts",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Cuerpo de frente",
+        "lengua": "Næs loa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Débil",
+        "lengua": "Goads",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Dedo del Pie",
+        "lengua": "Bcuein nia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Defecar",
+        "lengua": "Rshoan",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Descansar",
+        "lengua": "Rsialaas",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Desnudo",
+        "lengua": "Shishan",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Despertarse",
+        "lengua": "Rbain",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Diente",
+        "lengua": "Lai",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Doctor",
+        "lengua": "Biini ni rsiak",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Dormir",
+        "lengua": "Ræis",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Ebrio",
+        "lengua": "Biingua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Embarazada",
+        "lengua": "Nushiin",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Encías",
+        "lengua": "Shalai",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Enfermo",
+        "lengua": "Rakshua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Escupir",
+        "lengua": "Rtiushein",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Espalda",
+        "lengua": "Dæts",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Espina dorsal",
+        "lengua": "Labardæts",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Estomago",
+        "lengua": "Lein",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Estornudar",
+        "lengua": "Rchædx",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Fiebre",
+        "lengua": "Shlia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Flato",
+        "lengua": "Dop",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Frente",
+        "lengua": "Næsloa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Fuerte",
+        "lengua": "Guiads",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Garganta",
+        "lengua": "Baguiein",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Herida",
+        "lengua": "Brug",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Hígado",
+        "lengua": "Lastoaguia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Hinchazón",
+        "lengua": "Rsaguia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Hombro",
+        "lengua": "Shaguien",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Huella",
+        "lengua": "Ni ca ik cuina",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Hueso",
+        "lengua": "Dst",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Intestinos",
+        "lengua": "Rsiia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Inyección",
+        "lengua": "Inyeccioin",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Labio",
+        "lengua": "Guiidrua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Lamer",
+        "lengua": "Rshoip",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Lengua",
+        "lengua": "Ludx",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Lisiado",
+        "lengua": "Gukna",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Llaga",
+        "lengua": "sn",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Lóbulo",
+        "lengua": "Guiid diag",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Magulladura",
+        "lengua": "Bgoa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Mandíbula",
+        "lengua": "Dst rua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Mano",
+        "lengua": "Naa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Matar",
+        "lengua": "Rguuiit",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Matriz",
+        "lengua": "sn",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Medicina",
+        "lengua": "Cuan rsiak",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Mejilla",
+        "lengua": "Bælrua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Mentón",
+        "lengua": "Dst rua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Moco",
+        "lengua": "Mok",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Morder",
+        "lengua": "Rauya",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Morir",
+        "lengua": "Ræit",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Mudo",
+        "lengua": "Gop",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Muela",
+        "lengua": "Lai ras",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Muerto",
+        "lengua": "Biini gu'uit",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Muñeca",
+        "lengua": "Guiena",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Muslo",
+        "lengua": "Cuiid",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Nalgas",
+        "lengua": "Bæl shan",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Nariz",
+        "lengua": "Shia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Nuca",
+        "lengua": "Shashia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Ojo",
+        "lengua": "Baloa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Ombligo",
+        "lengua": "Shkieip",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Omoplato",
+        "lengua": "Dst shacu dæts",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Oreja",
+        "lengua": "Diag",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Orificio nasal",
+        "lengua": "Guieid shia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Orinar",
+        "lengua": "Rnias",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Palma de la mano",
+        "lengua": "Lapatna",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pantorrilla",
+        "lengua": "Leinia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Papera",
+        "lengua": "sn",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Parpado",
+        "lengua": "Guiid rua baloa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pastilla",
+        "lengua": "Pastill",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pata",
+        "lengua": "Cuid",
+        "categoria": "Animales"
+    },
+    {
+        "espanol": "Pecho",
+        "lengua": "Tesh nesloa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pellejo",
+        "lengua": "Guiidtesh",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pelo",
+        "lengua": "Guich",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pelo Púbico",
+        "lengua": "Guich bæds",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pene",
+        "lengua": "Dung",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Perezoso",
+        "lengua": "Phloh",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pestaña",
+        "lengua": "Guichruabaloa",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pezón",
+        "lengua": "Ik shtuad",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pico",
+        "lengua": "Shtiug",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pie",
+        "lengua": "Nia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pierna",
+        "lengua": "Cuiid",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Poderoso",
+        "lengua": "Runtiæs",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Preñada",
+        "lengua": "Nushin",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pulgar",
+        "lengua": "Bcuein boch",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pulmón",
+        "lengua": "Pulmoin",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Pus",
+        "lengua": "Riudx",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Renco",
+        "lengua": "Biini rsalæcu",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Respirar",
+        "lengua": "Rgob bæ",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Riñón",
+        "lengua": "Riñoin",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Rodilla",
+        "lengua": "Shiib",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Roncar",
+        "lengua": "Riubæ ikni",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Saliva",
+        "lengua": "Shein",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Sanar",
+        "lengua": "Rsiak",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Sangre",
+        "lengua": "Rein",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Sano",
+        "lengua": "Nusak",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Seno",
+        "lengua": "Duad",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Sepulcro",
+        "lengua": "Yag gats",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Sepultar",
+        "lengua": "Rcuats",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Sesos",
+        "lengua": "Cobik / yobik",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Sien",
+        "lengua": "Locuas",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Sobaco",
+        "lengua": "Guniad",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Sordo",
+        "lengua": "Eit yein",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Sudar",
+        "lengua": "Raknai",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Talón",
+        "lengua": "Shania",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Temblar",
+        "lengua": "Rakseis",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Tener relaciones sexuales",
+        "lengua": "Rcuabnia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Testículo",
+        "lengua": "Bæds",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Tobillo",
+        "lengua": "Shaguiein nia",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Toser",
+        "lengua": "Rak rua",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Trasero",
+        "lengua": "Shaan",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Tumor",
+        "lengua": "Bæ'al",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Ubre",
+        "lengua": "Shtuadba",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Uña",
+        "lengua": "Bshug",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Vello",
+        "lengua": "Guich dæts",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Vena",
+        "lengua": "Bæn",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Veneno",
+        "lengua": "Cuan duash",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Vientre",
+        "lengua": "Lein tesh",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Vomitar",
+        "lengua": "Rdsa'ab",
+        "categoria": "Cuerpo humano"
+    },
+    {
+        "espanol": "Abrazar",
+        "lengua": "Rguiæds",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Alabar",
+        "lengua": "Ruin labaan",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Alegre",
+        "lengua": "Rbalaads",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Alma",
+        "lengua": "Aim",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Angustia",
+        "lengua": "Riayarsa",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Ansiedad",
+        "lengua": "Yarlsaa",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Atreverse",
+        "lengua": "Rlanala",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Besar",
+        "lengua": "Rcharua",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Buena suerte",
+        "lengua": "sn",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Bueno",
+        "lengua": "Sak",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Celos",
+        "lengua": "Rdxedxlads",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Contento",
+        "lengua": "Rbalaads",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Correcto",
+        "lengua": "Sikca",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Desear",
+        "lengua": "Rcaslaas",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Dolor",
+        "lengua": "Yan",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Enojo",
+        "lengua": "Rdxedx",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Envidia",
+        "lengua": "Riuguia",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Equivocación",
+        "lengua": "Richia",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Error",
+        "lengua": "Richia",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Escoger",
+        "lengua": "Rbæ",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Espíritu",
+        "lengua": "Aim",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Feliz",
+        "lengua": "Rbaa",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Feo",
+        "lengua": "Dxudx",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Fiel",
+        "lengua": "Biini sak",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Gemir",
+        "lengua": "Rbedxuein",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Hermoso",
+        "lengua": "Sagrua",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Incorrecto",
+        "lengua": "Eitsikti",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Inteligente",
+        "lengua": "Na'an",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Jugar",
+        "lengua": "Rguiat",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Lágrima",
+        "lengua": "Bæ",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Llorar",
+        "lengua": "Roaan",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Mala suerte",
+        "lengua": "sn",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Malo",
+        "lengua": "Dxab",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Miedo",
+        "lengua": "Rdxiib",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Odiar",
+        "lengua": "Rdxeedxlaas",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Orgulloso",
+        "lengua": "Biini yæch",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Peligro",
+        "lengua": "Duash",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Pena",
+        "lengua": "Rtuiloa",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Querer",
+        "lengua": "Rcads",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Regañar",
+        "lengua": "Rniayaa",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Reír",
+        "lengua": "Rshias",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Sonreír",
+        "lengua": "Rshia rua",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Soñar",
+        "lengua": "Rnia shcal",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Sorprendido",
+        "lengua": "Rdxialoa",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Tristeza",
+        "lengua": "Baan",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Valiente",
+        "lengua": "Riua baloir",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Vergüenza",
+        "lengua": "Rtuiloa",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Falso",
+        "lengua": "Dishiau",
+        "categoria": "Emociones"
+    },
+    {
+        "espanol": "Admitir",
+        "lengua": "Rcads",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Anunciar",
+        "lengua": "Rnia diidx",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Aullar",
+        "lengua": "Rduash baan",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Avisar",
+        "lengua": "Rnia diidx",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Callarse",
+        "lengua": "Rsæu rua",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Cantar",
+        "lengua": "Roal",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Chiflar",
+        "lengua": "Rtiæp",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Chillar",
+        "lengua": "Roan",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Contar",
+        "lengua": "Rlaab",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Decir",
+        "lengua": "Rnia",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Escribir",
+        "lengua": "Rcua",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Flauta",
+        "lengua": "sn",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Gritar",
+        "lengua": "Rbeshdia",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Hablar",
+        "lengua": "Rniia",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Leer",
+        "lengua": "Roal",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Libro",
+        "lengua": "Guiats lætr",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Maldecir",
+        "lengua": "Rguiæ",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Murmurar",
+        "lengua": "Rniguads",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Narrar",
+        "lengua": "Ruei",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Negar",
+        "lengua": "Eitrcads",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Papel",
+        "lengua": "Guiats",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Pluma",
+        "lengua": "Plum",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Poeta",
+        "lengua": "Biini ni rnia diidxdoa",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Preguntar",
+        "lengua": "Rnaab diidx",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Presumir",
+        "lengua": "Ruin yædx",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Prohibir",
+        "lengua": "Eit slaan",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Prometer",
+        "lengua": "Rnia huramænt",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Pronunciar un discurso",
+        "lengua": "Rnia diidx lo biini",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Recitar",
+        "lengua": "Rbainsag",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Reprender",
+        "lengua": "Rsaræ diidx",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Silbar",
+        "lengua": "Rtiæp",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Sonaja",
+        "lengua": "sn",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Tambor",
+        "lengua": "Tamboar",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Trompeta",
+        "lengua": "Trompæt",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Voz",
+        "lengua": "Bærua rnia",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Zaca puntas",
+        "lengua": "Guiab ni rcua ik laip",
+        "categoria": "Lenguaje"
+    },
+    {
+        "espanol": "Asesinar",
+        "lengua": "Rguiit",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Cárcel",
+        "lengua": "Ladsguiab",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Castigo",
+        "lengua": "Rsaksia",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Crimen",
+        "lengua": "Ruin phalt",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Delito",
+        "lengua": "Ruin dxab",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Incendio",
+        "lengua": "Rieik",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Juramento",
+        "lengua": "sn",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Jurar",
+        "lengua": "Rnia diidx",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Ladrón",
+        "lengua": "Ubaan",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Ley",
+        "lengua": "Guiats ley",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Multa",
+        "lengua": "Mualt",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Robar",
+        "lengua": "Rlaan",
+        "categoria": "Leyes"
+    },
+    {
+        "espanol": "Bambú",
+        "lengua": "Yabkianal",
+        "categoria": "Medio fisico"
+    },
+    {
+        "espanol": "Camino",
+        "lengua": "Nesiua",
+        "categoria": "Medio Fisico"
+    },
+    {
+        "espanol": "Leña",
+        "lengua": "Yag",
+        "categoria": "Medio Fisico"
+    },
+    {
+        "espanol": "Piedra",
+        "lengua": "Guila",
+        "categoria": "Medio Fisico"
+    },
+    {
+        "espanol": "Pozo",
+        "lengua": "Bsiæ",
+        "categoria": "Medio Fisico"
+    },
+    {
+        "espanol": "Precipicio",
+        "lengua": "Bla'a",
+        "categoria": "Medio Fisico"
+    },
+    {
+        "espanol": "Punta",
+        "lengua": "Ik",
+        "categoria": "Medio Fisico"
+    },
+    {
+        "espanol": "Raíz",
+        "lengua": "Lua",
+        "categoria": "Medio fisico"
+    },
+    {
+        "espanol": "Sábila",
+        "lengua": "Dobguiedx",
+        "categoria": "Medio Fisico"
+    },
+    {
+        "espanol": "Zanja",
+        "lengua": "Guieid loa yua",
+        "categoria": "Medio fisico"
+    },
+    {
+        "espanol": "Zanjar",
+        "lengua": "Rguæin",
+        "categoria": "Medio fisico"
+    },
+    {
+        "espanol": "Canoa",
+        "lengua": "Canoa",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Abono",
+        "lengua": "Boan",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Aguacate",
+        "lengua": "Guiesh",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Ajolote",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Ajonjolí",
+        "lengua": "Honholia",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Altar",
+        "lengua": "Loa dxan",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Ardilla",
+        "lengua": "Ds's",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Armadillo",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Atole",
+        "lengua": "Nisiab",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Ayates",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Cacahuate",
+        "lengua": "Bædsiua",
+        "categoria": "Mesoamerica"
+    },
+    {
+       "espanol":"Cacao",
+       "lengua":"Bsia'a",
+       "categoria":"Mesoamerica"
+    },
+    {
+       "espanol":"Cal",
+       "lengua":"Guiau",
+       "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Calambre",
+        "lengua": "Rcabieik",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Capulín",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Carrizo",
+        "lengua": "Yabkia",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Chabacano",
+        "lengua": "Chabacan",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Chapulín",
+        "lengua": "Bshaiit",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Charal",
+        "lengua": "Bæl las",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Chile",
+        "lengua": "Guiiñ",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Chocolate",
+        "lengua": "Chuklaid",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Cigarro",
+        "lengua": "Guiæds",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Cilantro",
+        "lengua": "Culantr",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Codorniz",
+        "lengua": "Batoa",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Cohete",
+        "lengua": "Cueæt",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Colmillo",
+        "lengua": "Lai rkiats",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Colorín",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Comal",
+        "lengua": "Dsail",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Conchero",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Coralillo",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Cuerpo",
+        "lengua": "Tesh",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Cuitlacoche",
+        "lengua": "Dam",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Curandero",
+        "lengua": "Binia",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Dedo",
+        "lengua": "Bueina",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Desyerbar",
+        "lengua": "Rsia",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Durazno",
+        "lengua": "Duraz",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Eclipse",
+        "lengua": "Rdeid bæu",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Elote",
+        "lengua": "Zæ",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Epazote",
+        "lengua": "Btia",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Estiércol",
+        "lengua": "Gui'a",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Excremento",
+        "lengua": "Gui'a",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Flor de calabaza",
+        "lengua": "Guiíabziæ",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Flor de manzanilla",
+        "lengua": "Guiía manzanill",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Forraje",
+        "lengua": "Guish",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Garambuyo",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Guajolote",
+        "lengua": "Beid",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Guayaba",
+        "lengua": "Güiia",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Haba",
+        "lengua": "Hab",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Hamaca",
+        "lengua": "Guishdua",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Hormiguero",
+        "lengua": "Lias bdiia",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Huacal",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Huazontle",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Incienso",
+        "lengua": "Yaal",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Ixtle",
+        "lengua": "Ba'ad",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Jícara",
+        "lengua": "Shiag",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Jitomate",
+        "lengua": "Btishsua",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Maguey",
+        "lengua": "Dob",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Malva",
+        "lengua": "Guye shual tæ",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Manzanilla",
+        "lengua": "Manzany",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Mascara",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Matrimonio",
+        "lengua": "Rchana",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Mazorca",
+        "lengua": "Nias",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Mecate",
+        "lengua": "Dua",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Metate",
+        "lengua": "Guiats",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Mezquite",
+        "lengua": "Yaguichua",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Milpa",
+        "lengua": "Guiæl",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Molcajete",
+        "lengua": "Guiringuiiñ",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Mole",
+        "lengua": "Moil",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Nixtamal",
+        "lengua": "Shobniil",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Nopal",
+        "lengua": "Biia",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Nutria",
+        "lengua": "Bæcu guiæu",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Ocote",
+        "lengua": "Guiæid",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Ofrenda",
+        "lengua": "Loa dxan",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Olla de barro",
+        "lengua": "Guias bsia'a",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Oro",
+        "lengua": "Guiab oar",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Palma",
+        "lengua": "Lein naa",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Palo volador",
+        "lengua": "Railæt",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Penacho",
+        "lengua": "Shambræl doib",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Pera",
+        "lengua": "Pær",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Piedra caliza",
+        "lengua": "Guilakiats",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Plata",
+        "lengua": "Guiab plat",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Plomo",
+        "lengua": "Guiab plom",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Puercoespín",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Pulque",
+        "lengua": "Noip",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Pulso",
+        "lengua": "Riubæ lastoa",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Quelite",
+        "lengua": "Ulaas",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Quexquemetl",
+        "lengua": "Gaban",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Reata",
+        "lengua": "Dua riat",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Reboso",
+        "lengua": "Baii",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Regar",
+        "lengua": "Rsæ",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Rezar",
+        "lengua": "Ruin labaan",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Ruda",
+        "lengua": "Ruad",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Sahumerio",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Sapeta",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Sol",
+        "lengua": "Ubiidx",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Sombra",
+        "lengua": "Blaa",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Taco",
+        "lengua": "Tacu",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Tamal",
+        "lengua": "Yætgua",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Tecolote",
+        "lengua": "Daam",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Tejón",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Tlacuache",
+        "lengua": "Blaal",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Tocado",
+        "lengua": "Doib",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Tomate",
+        "lengua": "Btiush",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Tortilla",
+        "lengua": "Yæt",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Tórtola",
+        "lengua": "Gugue",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Tuna",
+        "lengua": "Brui'in",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Vejiga",
+        "lengua": "Begiag",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Verdolaga",
+        "lengua": "Cunia",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Víbora",
+        "lengua": "Bæl",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Víbora de cascabel",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Xoconostle",
+        "lengua": "sn",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Yunta",
+        "lengua": "Yuant",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Zacate",
+        "lengua": "Guiish",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Zapote",
+        "lengua": "Yalds'ain",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Zapote Blanco",
+        "lengua": "Blieu",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Zapote Negro",
+        "lengua": "Blieu",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Zopilote",
+        "lengua": "Dxidx",
+        "categoria": "Mesoamerica"
+    },
+    {
+        "espanol": "Anzuelo",
+        "lengua": "Nsuæl",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Arco",
+        "lengua": "Arcu",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Armadura",
+        "lengua": "Rmaduar",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Armas",
+        "lengua": "Guiab",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Atacar",
+        "lengua": "Rcoa",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Atrapar",
+        "lengua": "Rnaas",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Batalla",
+        "lengua": "Rcua",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Botín",
+        "lengua": "Boat",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Carnada",
+        "lengua": "Carnad",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Casco",
+        "lengua": "Cascu",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Cautivo",
+        "lengua": "Biini nua ladsguiab",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Cazar",
+        "lengua": "Ria goads",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Cuerda de pescar",
+        "lengua": "Dua naas be'al",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Derrota",
+        "lengua": "Ueniit",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Derrotado",
+        "lengua": "Ueniitba",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Disparar",
+        "lengua": "Rcuaa",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Ejercito",
+        "lengua": "Goal suldad",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Errar",
+        "lengua": "Richia",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Escudo",
+        "lengua": "sn",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Espada",
+        "lengua": "sn",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Fallar",
+        "lengua": "Riniit",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Flecha",
+        "lengua": "Plech",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Fortaleza",
+        "lengua": "Yuaroa",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Garrote",
+        "lengua": "Garoit",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Guerra",
+        "lengua": "Güær",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Hacha de guerra",
+        "lengua": "Guibiag",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Honda",
+        "lengua": "Guiidrgaa",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Lanza",
+        "lengua": "Lans",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Macana",
+        "lengua": "Garoit",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Paz",
+        "lengua": "Riua sak",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Pelear",
+        "lengua": "Rcua",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Pescador",
+        "lengua": "Biini ni rnaas bæl",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Pistola",
+        "lengua": "Guiab rcua",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Prisionero",
+        "lengua": "Biini ni nua ladsguiab",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Red",
+        "lengua": "sn",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Rendirse",
+        "lengua": "Rsaln guinshi gan",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Resortera",
+        "lengua": "Guiid rgaa",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Rifle",
+        "lengua": "Guiab rcua",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Soldado",
+        "lengua": "Suldad",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Torre",
+        "lengua": "Yua yaa",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Trampa",
+        "lengua": "Naas",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Tropa",
+        "lengua": "Trop",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Victoria",
+        "lengua": "Ruin gan",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Yelmo",
+        "lengua": "Guiab ik",
+        "categoria": "Milicia"
+    },
+    {
+        "espanol": "Acta de nacimiento",
+        "lengua": "Guiats nacimiænt",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Anteojos",
+        "lengua": "Lænt",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Autobús",
+        "lengua": "Pasah",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Banco ",
+        "lengua": "Yua meil",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Bicicleta",
+        "lengua": "Biciclæt",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Bomba",
+        "lengua": "Bomb",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Bote",
+        "lengua": "Boat",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Botella",
+        "lengua": "Butei",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Cabina de tren",
+        "lengua": "Yua trein",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Calendario",
+        "lengua": "Calendair",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Canción",
+        "lengua": "Lægr",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Carreta",
+        "lengua": "Carræt",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Carretera",
+        "lengua": "Carretær",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Carro",
+        "lengua": "Camioin",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Carruaje",
+        "lengua": "Carræt",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Carta",
+        "lengua": "Guiats cart",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Colchón",
+        "lengua": "Daræin",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Correo",
+        "lengua": "Guiats correspondeins",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Desarmador",
+        "lengua": "Desarmadoar",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Disfraz",
+        "lengua": "Goal",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Elección",
+        "lengua": "Rlæ",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Electricidad",
+        "lengua": "Shbinia",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Enfermera",
+        "lengua": "Biini rap biini rakshua",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Fabrica",
+        "lengua": "Yua dsain",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Hospital",
+        "lengua": "Spitail",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Lámpara",
+        "lengua": "Guiab shbinia",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Licencia de conducir",
+        "lengua": "Guiats liceins rshuin camioin",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Médico",
+        "lengua": "Biini ni rsiak",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Motocicleta",
+        "lengua": "Moat",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Motor",
+        "lengua": "Guiab rarcha",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Música",
+        "lengua": "Roal",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Músico",
+        "lengua": "Biini ni roal",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Película",
+        "lengua": "Peliacu",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Periódico",
+        "lengua": "Guiats nicayak",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Petróleo",
+        "lengua": "Nseit petroil",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Pila",
+        "lengua": "Bateria",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Placa",
+        "lengua": "Plak",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Policía",
+        "lengua": "Shag",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Postal",
+        "lengua": "Guiats postail",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Presidente",
+        "lengua": "Shtad guiedx",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Radio",
+        "lengua": "Raid",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Teléfono",
+        "lengua": "Telæph",
+        "categoria": "modernidad"
+    },
+    {
+        "espanol": "Televisión",
+        "lengua": "Guiab televisioin",
+        "categoria": "modernidad"
+    },
+    {
+        "espanol": "Timbre postal",
+        "lengua": "Guiats tiambr",
+        "categoria": "modernidad"
+    },
+    {
+        "espanol": "Timón",
+        "lengua": "sn",
+        "categoria": "Modernidad"
+    },
+    {
+        "espanol": "Tren",
+        "lengua": "Trein",
+        "categoria": "modernidad"
+    },
+    {
+        "espanol": "Urna",
+        "lengua": "Uarn",
+        "categoria": "modernidad"
+    },
+    {
+        "espanol": "Acercarse",
+        "lengua": "Rbiik",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Alcanzar",
+        "lengua": "Rganaa",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Arrodillarse",
+        "lengua": "Rsushiib",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Aventar",
+        "lengua": "Rlana",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Bajar",
+        "lengua": "Riæt",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Barco",
+        "lengua": "Barcu",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Brincar",
+        "lengua": "Rtiæs",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Buque",
+        "lengua": "Barcu",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Coger",
+        "lengua": "Rgabiua",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Cojear",
+        "lengua": "Rgabiua nia",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Conducir",
+        "lengua": "Rsaa",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Correr",
+        "lengua": "Rshuin",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Dejar Caer",
+        "lengua": "Rslan riab",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Desaparecer",
+        "lengua": "Rnitloa",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Eje",
+        "lengua": "Ehe",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Empujar",
+        "lengua": "Ralanaa",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Enrollar",
+        "lengua": "Rtoib",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Entrar",
+        "lengua": "Riua",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Gatear",
+        "lengua": "Rdaa",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Gotear",
+        "lengua": "Rshia",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Huir",
+        "lengua": "Rshuin",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Hundir",
+        "lengua": "Riæis",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Ir",
+        "lengua": "Ria",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Irse",
+        "lengua": "Riia",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Irse-marcharse",
+        "lengua": "Riia",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Levantar",
+        "lengua": "Rlæs",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Llegar",
+        "lengua": "Rdsain",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Llevar",
+        "lengua": "Rinæ",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Llevar a la espalda",
+        "lengua": "Rua labardæts",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Llevar bajo el brazo",
+        "lengua": "Rua lein shaku",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Llevar en el hombro",
+        "lengua": "Rua shaguiein",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Llevar en la mano",
+        "lengua": "Rua ladsna",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Llevar sobre la cabeza",
+        "lengua": "Rua ik",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Marcharse",
+        "lengua": "Ria",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Navegar",
+        "lengua": "Rshuin loa nias",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Patear",
+        "lengua": "Rgunia",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Perseguir",
+        "lengua": "Rinal",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Ponerse en cunclillas",
+        "lengua": "Rsabashuin",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Puente",
+        "lengua": "Pueint",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Puerto",
+        "lengua": "Rikloa rdain barku",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Ranquear",
+        "lengua": "Rsalæcu",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Remar",
+        "lengua": "Rshuin canua",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Remo",
+        "lengua": "Ræm",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Remo corto",
+        "lengua": "Ræm dop",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Resbalar",
+        "lengua": "Roal",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Rueda",
+        "lengua": "Ruæd",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Salir",
+        "lengua": "Riia",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Venir",
+        "lengua": "Riæd",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Voltear",
+        "lengua": "Rlæs",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Volver",
+        "lengua": "Rbiræ",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Zambullirse",
+        "lengua": "Rlanalaa",
+        "categoria": "Movimiento"
+    },
+    {
+        "espanol": "Agua",
+        "lengua": "Nisia",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Aire",
+        "lengua": "Bæ",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Apagar",
+        "lengua": "Siui",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Árbol",
+        "lengua": "Yag",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Árbol de plátano",
+        "lengua": "Yabdua",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Árbol podado",
+        "lengua": "Buashi yag",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Arcoíris",
+        "lengua": "sn",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Arder",
+        "lengua": "Rieik",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Arena",
+        "lengua": "Yush",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Arroyo",
+        "lengua": "Guiæu",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Bahía",
+        "lengua": "Runisdoa",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Barranca",
+        "lengua": "Bla'a",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Bosque",
+        "lengua": "Dainroa",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Brasas",
+        "lengua": "Guibua",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Cascada",
+        "lengua": "Rikriab nisia",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Cenizas",
+        "lengua": "Cobdæ",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Charco",
+        "lengua": "sn",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Cielo",
+        "lengua": "Shaiba",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Colibrí",
+        "lengua": "Bduand",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Continente",
+        "lengua": "Yua roa",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Corriente",
+        "lengua": "Rgabiua nisia",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Cueva",
+        "lengua": "Blia",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Día",
+        "lengua": "Dxiab",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Encender",
+        "lengua": "Rcualguia",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Espuma",
+        "lengua": "Btsain",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Estrella",
+        "lengua": "Bælguia",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Fósforo",
+        "lengua": "Cerill",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Fuego",
+        "lengua": "Guibua",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Hielo",
+        "lengua": "Guieig",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Huaraches",
+        "lengua": "Yalguiid",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Humo",
+        "lengua": "Gosh",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Llano",
+        "lengua": "Lats",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Lluvia",
+        "lengua": "Nisguia",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Lodo",
+        "lengua": "Cobain",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Luna",
+        "lengua": "Bæu",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Luz",
+        "lengua": "Shbinia",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Madera",
+        "lengua": "Bræd",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Maíz",
+        "lengua": "Shoob",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Mar",
+        "lengua": "Nisdoa",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Montaña",
+        "lengua": "Dain",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Mundo",
+        "lengua": "Guishliua",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Neblina",
+        "lengua": "Beyua",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Nieve",
+        "lengua": "Guieig",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Nube",
+        "lengua": "Shcai",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Océano",
+        "lengua": "Nisdoaroa",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Oscuridad",
+        "lengua": "loa shcai",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Planicie",
+        "lengua": "Lats",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Playa",
+        "lengua": "Ruanisdoa",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Polvo",
+        "lengua": "Gushua",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Quemar",
+        "lengua": "Rseik",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Rayo",
+        "lengua": "Riubæ bsiiau",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Relámpago",
+        "lengua": "Bsiau",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Remolino",
+        "lengua": "Bdoan",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Ribera",
+        "lengua": "Runisia",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Río",
+        "lengua": "Guieæu",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Riviera",
+        "lengua": "Yua cuæ nisdoa",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Roca",
+        "lengua": "Guila",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Rocío",
+        "lengua": "Raib shcop",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Selva",
+        "lengua": "Dain",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Sequía",
+        "lengua": "Biads",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Tempestad",
+        "lengua": "Nisguia duash",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Terremoto",
+        "lengua": "Bshua",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Tierra",
+        "lengua": "Yua",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Tormenta",
+        "lengua": "Nisguia roa",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Trueno",
+        "lengua": "Riubæ bsiau",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Valle",
+        "lengua": "Lats",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Viento",
+        "lengua": "Bæ",
+        "categoria": "Mundo fisico"
+    },
+    {
+        "espanol": "Cero",
+        "lengua": "Shitæ",
+        "categoria": "Numeros"
+    },
+    {
+        "espanol": "Uno",
+        "lengua": "Toa",
+        "categoria": "Numeros"
+    },
+    {
+        "espanol": "Dos",
+        "lengua": "Tiop",
+        "categoria": "Numeros"
+    },
+    {
+        "espanol": "Tres",
+        "lengua": "Choan",
+        "categoria": "Numeros"
+    },
+    {
+        "espanol": "Cuatro",
+        "lengua": "Tap",
+        "categoria": "Numeros"
+    },
+    {
+        "espanol": "Seis",
+        "lengua": "Shop",
+        "categoria": "Numeros"
+    },
+    {
+        "espanol": "Cinco",
+        "lengua": "Gai",
+        "categoria": "Numeros"
+    },
+    {
+        "espanol": "Siete",
+        "lengua": "Gads",
+        "categoria": "Numeros"
+    },
+    {
+        "espanol": "Ocho",
+        "lengua": "Shuan",
+        "categoria": "Numeros"
+    },
+    {
+        "espanol": "Nueve",
+        "lengua": "Ga'a",
+        "categoria": "Numeros"
+    },
+    {
+        "espanol": "Adolescente",
+        "lengua": "Binishtoib",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Árbol genealógico",
+        "lengua": "sn",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Bebe",
+        "lengua": "Bdoa",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Boda",
+        "lengua": "Rchana",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Casamiento",
+        "lengua": "Rchana",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Casarse",
+        "lengua": "Rchanaa",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Divorcio",
+        "lengua": "Rlaza",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Él",
+        "lengua": "La",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Ellos",
+        "lengua": "Laraba",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Esposa",
+        "lengua": "Chæl",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Esposo",
+        "lengua": "Chæl",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Familia",
+        "lengua": "Zaa",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Gemelos",
+        "lengua": "Cuach",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Hombre",
+        "lengua": "Nguiau",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Hombre casado",
+        "lengua": "Goal bchana",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Hombre viejo",
+        "lengua": "Biini goal",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Huérfano",
+        "lengua": "Bsiæib",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Huérfano ",
+        "lengua": "Bsiæib",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Joven (hombre)",
+        "lengua": "Nguiau shtoib",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Joven (mujer)",
+        "lengua": "Unaa shtoib",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Joven-adolescente",
+        "lengua": "Binia uin",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Marido",
+        "lengua": "Shinguiau",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Muchacha",
+        "lengua": "Dxap",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Muchacho",
+        "lengua": "Nguiau shtoib",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Mujer",
+        "lengua": "Unaa",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Mujer casada",
+        "lengua": "Unaa chana",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Mujer vieja",
+        "lengua": "Nanroa",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Niño",
+        "lengua": "Binia nguiau",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Nosotros",
+        "lengua": "Danunu",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Persona",
+        "lengua": "Biini",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Ser Humano",
+        "lengua": "Biini",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Tú",
+        "lengua": "Lia",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Usted",
+        "lengua": "Yobiu",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Ustedes",
+        "lengua": "Latu",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Varón",
+        "lengua": "Nguiau",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Viuda",
+        "lengua": "sn",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Viudo",
+        "lengua": "sn",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Yo",
+        "lengua": "Nara",
+        "categoria": "Parentesco"
+    },
+    {
+        "espanol": "Agarrar",
+        "lengua": "Rnaas",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Barato",
+        "lengua": "Barat",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Buscar",
+        "lengua": "Rguiil",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Caro",
+        "lengua": "Car",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Comerciante",
+        "lengua": "Biini ni rtoa",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Comprar",
+        "lengua": "Rsiaa",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Conservar",
+        "lengua": "Rguchæ",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Cuenta",
+        "lengua": "Guiats gash",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Dañar",
+        "lengua": "Ruindxab",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Dar",
+        "lengua": "Rdeid",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Deuda",
+        "lengua": "Diin",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Devolver",
+        "lengua": "Rsaræ",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Dinero",
+        "lengua": "Meil",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Dueño",
+        "lengua": "Bishuan",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Encontrar",
+        "lengua": "Rdxæl",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Ganar (dinero)",
+        "lengua": "Ruin gaan",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Ganar dinero",
+        "lengua": "Ruin gaan",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Guardar",
+        "lengua": "Rguchæ",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Hallar",
+        "lengua": "Rdxæl",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Herir",
+        "lengua": "Rtiug",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Liberar",
+        "lengua": "Rsla",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Mendigo",
+        "lengua": "sn",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Moneda",
+        "lengua": "Meil",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Obtener",
+        "lengua": "Rcaa",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Pagar",
+        "lengua": "Rguiish",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Pedir prestado",
+        "lengua": "Rasik",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Perder",
+        "lengua": "Risæib",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Pesar",
+        "lengua": "Resh",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Pobre",
+        "lengua": "Eitshirapti",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Precio",
+        "lengua": "Lak sak",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Prestar",
+        "lengua": "Rdeitsik",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Proteger",
+        "lengua": "Raap",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Repartir",
+        "lengua": "Rlaa",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Rescatar",
+        "lengua": "Rslaa",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Salario",
+        "lengua": "Rguish",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Salario-sueldo",
+        "lengua": "Rguish - Meil rash",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Salvar",
+        "lengua": "Rslaa",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Solar",
+        "lengua": "Rslaa",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Soltar",
+        "lengua": "Rslaan",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Sostener",
+        "lengua": "Rnas",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Sueldo",
+        "lengua": "Meil yalrash",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Sujetar",
+        "lengua": "Rnaas",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Tienda",
+        "lengua": "Yua rtoa",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Tomar",
+        "lengua": "Rca",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Vender",
+        "lengua": "Rtoa",
+        "categoria": "Posesion"
+    },
+    {
+        "espanol": "Abajo",
+        "lengua": "Yæt",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Abrir",
+        "lengua": "Rshaal",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Acostarse",
+        "lengua": "Raga",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Adentro",
+        "lengua": "Næs lein",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Afuera",
+        "lengua": "Eit leinti",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Agujero",
+        "lengua": "Guieid",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Al lado de",
+        "lengua": "Cuæ",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Alto",
+        "lengua": "Yaa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Alto -bajo",
+        "lengua": "Yaa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Amontonar",
+        "lengua": "Rbeik iksa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Amplio",
+        "lengua": "Lag",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Ancho",
+        "lengua": "Lag",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Angosto",
+        "lengua": "Dæ",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Apartar",
+        "lengua": "Ricaa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Arriba",
+        "lengua": "Ik",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Atrás",
+        "lengua": "Dæts",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Bajo",
+        "lengua": "Dop",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Bastante",
+        "lengua": "Staalru",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Borde",
+        "lengua": "Rua",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Cambiar",
+        "lengua": "Rchaa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Centro",
+        "lengua": "Lay",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Cerca",
+        "lengua": "Gash",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Cerrar",
+        "lengua": "Bsæu",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Chico",
+        "lengua": "Bædx",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Cima",
+        "lengua": "Ik dain",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Circulo",
+        "lengua": "Buil",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Colectar",
+        "lengua": "Rtop",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Costado",
+        "lengua": "Toa cuæ",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Crecer",
+        "lengua": "Rniis",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Cruz",
+        "lengua": "Cruis",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Cuadrado",
+        "lengua": "Cuadr",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Cubrir",
+        "lengua": "Rchiloa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Debajo",
+        "lengua": "Guiein nia",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Delante",
+        "lengua": "Næs loa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Delante de",
+        "lengua": "Suga næsloa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Delantero",
+        "lengua": "Næsloa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Derecha",
+        "lengua": "Stolad lastoa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Derecho",
+        "lengua": "Derechtis",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Detrás",
+        "lengua": "Dæts nak",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Echarse",
+        "lengua": "Raga",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Esconder",
+        "lengua": "Rcuads",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Esfera",
+        "lengua": "Buil",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Esquina",
+        "lengua": "Skian",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Este",
+        "lengua": "Lad ni riia ubiidx",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Estrecho",
+        "lengua": "Dæ",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Exterior",
+        "lengua": "Detsiu",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Fondo",
+        "lengua": "Shan",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Gancho",
+        "lengua": "Ganch",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Grande",
+        "lengua": "Broa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Grande - Chico",
+        "lengua": "Broa - bædx",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Grueso - delgado",
+        "lengua": "Naal - Laas",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Hondo",
+        "lengua": "Yæt",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Izquierda",
+        "lengua": "Cuæ lastoa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Juntar",
+        "lengua": "Rtop",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Lado",
+        "lengua": "Cuæ",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Largo - corto",
+        "lengua": "Sioal - Dop",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Lejos",
+        "lengua": "Sioal",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Línea",
+        "lengua": "Næs",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Margen",
+        "lengua": "Rua guiats",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Medio",
+        "lengua": "Roal",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Medir",
+        "lengua": "Reesh",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Multitud",
+        "lengua": "Biini staal",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Norte",
+        "lengua": "Paria",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Ocultar",
+        "lengua": "Rcuats",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Oeste",
+        "lengua": "Næs ni riua ubiidx",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Orilla",
+        "lengua": "Cuæ guiæu",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Pedazo",
+        "lengua": "Tola",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Pequeño",
+        "lengua": "Bædx",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Plano",
+        "lengua": "Lats",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Poco profundo",
+        "lengua": "Eitshiyæt",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Poner",
+        "lengua": "Rsuga",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Ponerse de pie",
+        "lengua": "Rsulia",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Profundo",
+        "lengua": "Ruin shigab",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Puntiagudo",
+        "lengua": "Læsh",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Recoger",
+        "lengua": "Rtop",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Recto",
+        "lengua": "Lein shaan",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Redondo",
+        "lengua": "Buil",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Reunir",
+        "lengua": "Rdsik",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Rincón",
+        "lengua": "Toskian padær",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Semejante",
+        "lengua": "Zagak",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Sentar",
+        "lengua": "Rsabaa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Separar",
+        "lengua": "Rlasa",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Sobras",
+        "lengua": "Ni biæn",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Solo",
+        "lengua": "Toibi",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Suficiente",
+        "lengua": "Mediadtis",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Sur",
+        "lengua": "Pariæt",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Torcido",
+        "lengua": "Læcu",
+        "categoria": "Relaciones Espaciales"
+    },
+    {
+        "espanol": "Bendecir",
+        "lengua": "sn",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Brujería",
+        "lengua": "Bdxa",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Brujo",
+        "lengua": "Bdxa",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Cura",
+        "lengua": "Bshoas",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Demonio",
+        "lengua": "Biini dxab",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Duende",
+        "lengua": "Bniidx",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Fantasma",
+        "lengua": "Aim",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Gnomo",
+        "lengua": "Shambræl",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Hechicero",
+        "lengua": "Bdxa",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Iglesia",
+        "lengua": "Idoa",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Infierno",
+        "lengua": "Gabiil",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Magia",
+        "lengua": "sn",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Orar",
+        "lengua": "Roal læ",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Predicar",
+        "lengua": "Ruinlaban",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Sacerdote",
+        "lengua": "Bshoas",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Sagrado",
+        "lengua": "Sak",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Templo",
+        "lengua": "Tæmpl",
+        "categoria": "Religion"
+    },
+    {
+        "espanol": "Abrigo",
+        "lengua": "Suæt",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Aguja",
+        "lengua": "Guash",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Alfiler",
+        "lengua": "Philiær",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Algodón",
+        "lengua": "Shiil",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Anillo",
+        "lengua": "Guiab niil",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Arete",
+        "lengua": "Guibgaa",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Bolsillo",
+        "lengua": "Boals",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Bota",
+        "lengua": "Boat",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Botón",
+        "lengua": "Btoin",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Brazalete",
+        "lengua": "Guiabna",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Calcetín",
+        "lengua": "Calcetian",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Calzón",
+        "lengua": "Suid",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Camisa",
+        "lengua": "Gamang",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Cepillo",
+        "lengua": "Cepill",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Chaquira",
+        "lengua": "Chakiar",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Cinturón",
+        "lengua": "Cinturoan",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Collar",
+        "lengua": "Biaar",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Corbata",
+        "lengua": "Corbat",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Coser",
+        "lengua": "Rguiab",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Cuello",
+        "lengua": "Guiein",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Cuero",
+        "lengua": "Gui'id",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Espejo",
+        "lengua": "Guiuan",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Falda",
+        "lengua": "Nau",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Gaban",
+        "lengua": "Gabaan",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Gabán",
+        "lengua": "Gaban",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Gorro",
+        "lengua": "Goar",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Guante",
+        "lengua": "Guant",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Hilar",
+        "lengua": "Rcuaa loa dua",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Hilo",
+        "lengua": "Duba shiil",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Huso",
+        "lengua": "Bigus",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Jabón",
+        "lengua": "Bishtiil",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Joya",
+        "lengua": "sn",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Lana",
+        "lengua": "Shiil",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Media",
+        "lengua": "Calcæt",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Navaja de afeitar",
+        "lengua": "Medialuan",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Pantalón",
+        "lengua": "Pantloan",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Pañal",
+        "lengua": "Suid",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Pañuelo",
+        "lengua": "Paniat",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Peine",
+        "lengua": "Bæagu",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Piel",
+        "lengua": "Guidlaid",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Playera",
+        "lengua": "Gamang",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Poncho",
+        "lengua": "Gaban",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Punzón",
+        "lengua": "Bshar",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Ropa",
+        "lengua": "Shab",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Saco",
+        "lengua": "Sacu",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Sastre",
+        "lengua": "Biini ruin laid",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Short",
+        "lengua": "Shoar",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Sombrero",
+        "lengua": "Shambræl",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Sortija",
+        "lengua": "Guiab niil",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Tejer",
+        "lengua": "Rguiiab",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Tela",
+        "lengua": "Laid",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Telar",
+        "lengua": "Telair",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Toalla",
+        "lengua": "Tuall",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Trenzar",
+        "lengua": "Rguuñ",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Ungüento",
+        "lengua": "Cuan rsiak",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Velo",
+        "lengua": "Laid loa dxap",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Vestido",
+        "lengua": "sn",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Vestirse",
+        "lengua": "Rauk shab",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Zapatero",
+        "lengua": "Biini ni ruin yalguiid",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Zapato",
+        "lengua": "Yalguiid",
+        "categoria": "Ropa y Cuidado Personal"
+    },
+    {
+        "espanol": "Ácido",
+        "lengua": "Guia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Afilado",
+        "lengua": "Ca loa",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Agrio",
+        "lengua": "Guia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Altavoz",
+        "lengua": "Guiab ni rnia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Amargo",
+        "lengua": "Laa",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Amarillo",
+        "lengua": "Ngats",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Apestoso",
+        "lengua": "Guiagu",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Azul",
+        "lengua": "Ngacuyuy",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Blanco",
+        "lengua": "Kiats",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Brillante",
+        "lengua": "Biini na'an",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Brillar",
+        "lengua": "Rlana shbinia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Buen olor",
+        "lengua": "Rlia nish",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Cálido",
+        "lengua": "Dxa",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Caliente",
+        "lengua": "Laa",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Claro",
+        "lengua": "Riensak",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Color",
+        "lengua": "Rnia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Contemplar",
+        "lengua": "Ruinshigab",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Dulce",
+        "lengua": "Nesh",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Duro",
+        "lengua": "Guiads",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Escuchar",
+        "lengua": "Rcudiag",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Escurrir",
+        "lengua": "Rbiib",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Filoso",
+        "lengua": "Caaloa",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Frío",
+        "lengua": "Naal",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Hediondo",
+        "lengua": "Guiagu",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Husmear",
+        "lengua": "sn",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Ligero",
+        "lengua": "Seis",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Limpio",
+        "lengua": "Yaa",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Liviano",
+        "lengua": "Seis",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Mirar",
+        "lengua": "Ruia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Mojado",
+        "lengua": "Nadx",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Mostrar",
+        "lengua": "Rluii",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Negro",
+        "lengua": "Yas",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Oír",
+        "lengua": "Rcudiag",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Oler",
+        "lengua": "Rgushia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Olfatear",
+        "lengua": "Rgushia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Opaco",
+        "lengua": "Tæ",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Oscuro",
+        "lengua": "shcai",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Pellizcar",
+        "lengua": "Rguidia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Pesado",
+        "lengua": "Na'a",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Quieto",
+        "lengua": "Sugadxia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Resplandor",
+        "lengua": "Rdemcha",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Rojo",
+        "lengua": "Shnia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Ruido",
+        "lengua": "Riubæ diap",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Ruidoso",
+        "lengua": "Guias riubæ",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Sabor",
+        "lengua": "Rdau",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Salado",
+        "lengua": "Shia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Seco",
+        "lengua": "Biads",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Sentir",
+        "lengua": "Rchaloa",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Silencio",
+        "lengua": "Nak cubæ",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Sin Filo",
+        "lengua": "Tam",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Sonido",
+        "lengua": "Riubæ",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Suave",
+        "lengua": "Goads",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Sucio",
+        "lengua": "Bæid",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Tocar",
+        "lengua": "Rnas",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Ver",
+        "lengua": "Ruia",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Verde",
+        "lengua": "Nga",
+        "categoria": "Sentidos"
+    },
+    {
+        "espanol": "Amo",
+        "lengua": "sn",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Ayudar",
+        "lengua": "Raklæ",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Bastón",
+        "lengua": "Garoit",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Ciudad",
+        "lengua": "Guiedxroa",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Ciudadano",
+        "lengua": "Biini guiædx",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Compañero",
+        "lengua": "Shcomp",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Dejar",
+        "lengua": "Rsæn",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Enemigo",
+        "lengua": "Ni rcuanæ",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Esclavo",
+        "lengua": "sn",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Extranjero",
+        "lengua": "Biini tolad",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Forastero",
+        "lengua": "Biini tolad",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Frontera",
+        "lengua": "Phrontær",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Gente",
+        "lengua": "Biini",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Hombre libre",
+        "lengua": "Goal bria ladsguiab",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Impedir",
+        "lengua": "Eit slaan",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Invitación",
+        "lengua": "Rgan",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Limite",
+        "lengua": "Carril",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Lucha",
+        "lengua": "Rcua",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Mandar",
+        "lengua": "Rnibæ",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Obedecer",
+        "lengua": "Rcudiag",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Ordenar",
+        "lengua": "Rnibæ",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "País",
+        "lengua": "Ladx",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Pelea",
+        "lengua": "Rcuara",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Pueblo",
+        "lengua": "Guiedx",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Pueblo (gente)",
+        "lengua": "Biini guiedx",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Reina",
+        "lengua": "Unaa sak",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Rey",
+        "lengua": "Nguiau sak",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Vecino",
+        "lengua": "Bsian",
+        "categoria": "Sociedad"
+    },
+    {
+        "espanol": "Ahora",
+        "lengua": "Naa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Año",
+        "lengua": "Ias",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Apurarse",
+        "lengua": "Rkiein",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Comenzar",
+        "lengua": "Rsloaa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Despacio",
+        "lengua": "Chilads",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Detenerse",
+        "lengua": "Rbæds",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Empezar",
+        "lengua": "Rsloa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Estación",
+        "lengua": "Ni rdeid dxia",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Fin",
+        "lengua": "Riloa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Finalizar",
+        "lengua": "Rsaloa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Hora",
+        "lengua": "Oar",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Hoy",
+        "lengua": "Nadxia",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Infinito",
+        "lengua": "Dxiblascasa broa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Inmediatamente",
+        "lengua": "Yagolgak",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Invierno",
+        "lengua": "Bæu beroa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Jamás",
+        "lengua": "Eitpacsa gak",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Joven",
+        "lengua": "Uin",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Lentamente",
+        "lengua": "Chilas",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Madrugada",
+        "lengua": "Yobga",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Mañana",
+        "lengua": "Shiia",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Mediodía",
+        "lengua": "Laydxia",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Mes",
+        "lengua": "Bæu",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Noche",
+        "lengua": "Guiæl",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Nuevo",
+        "lengua": "Coib",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Nunca",
+        "lengua": "Eitpaksa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Otoño",
+        "lengua": "Bau rtop guiæl",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Por mucho tiempo",
+        "lengua": "Staal ias",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Primavera",
+        "lengua": "Bæu ni rbein ra yag",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Pronto",
+        "lengua": "Yamær",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Reloj",
+        "lengua": "Reloa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Semana",
+        "lengua": "Shman",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Siempre",
+        "lengua": "Rætæ",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Tarde",
+        "lengua": "Ya gukla",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Temprano",
+        "lengua": "Yobga",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Terminar",
+        "lengua": "Rsaloa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Tiempo",
+        "lengua": "Rdeid dxia",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Tierno",
+        "lengua": "Bdoa",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Verano",
+        "lengua": "Bæu gusguia",
+        "categoria": "Tiempo"
+    },
+    {
+        "espanol": "Viejo",
+        "lengua": "Iush",
+        "categoria": "Tiempo"
+    }
+]

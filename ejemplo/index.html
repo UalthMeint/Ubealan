@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diccionario Ilustrado Español-Zapoteco</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body> 
+    <!-- Título principal de la página -->
+    <h1 id="titulo">Diccionario Ilustrado Español-Zapoteco</h1>
+    
+    <!-- Contenedor para el logo centrado -->
+    <div style="display: flex; justify-content: center;">
+      <img src="img/logo.png" style="width: 200px; max-width: 100%;">
+    </div>
+    
+    <!-- Selector de idioma -->
+    <div class="language-container">
+        <div class="language-toggle">
+            <div class="toggle-btn active" id="espanol-btn">Español</div>
+            <div class="toggle-btn" id="zapoteco-btn">Zapoteco</div>
+        </div>
+    </div>
+
+    <!-- Mensaje de categorías -->
+    <div class="category-message">
+        <p id="category-prompt">Selecciona la categoría que quieres explorar:</p>
+    </div>
+    
+    <!-- Contenedor para las categorías -->
+    <div class="categories-container">
+        <!-- Las categorías se cargarán dinámicamente desde JavaScript -->
+    </div>
+    
+    <!-- Contenedor para mostrar las palabras e imágenes -->
+    <div id="word-gallery">
+        <div id="gallery-header"></div>
+        <div id="gallery-content"></div>
+        <div id="gallery-pagination"></div>
+    </div>
+        <!-- Sección de instrucciones de uso -->
+    <div class="instructions" id="instrucciones">
+        <h3 id="titulo-instrucciones">Instrucciones:</h3>
+        <p id="instruccion1">1. Selecciona el idioma en el que deseas explorar.</p>
+        <p id="instruccion2">2. Selecciona un eje temático.</p>
+        <p id="instruccion3">3. Puedes moverte entre página presionando los botones numerados por categoria.</p>
+        <p id="instruccion4">4. Si deseas sugerir correcciones u observaciones, puedes mandar un mensaje a <a href="https://www.facebook.com/Ualth.MeintHzz">@Ualth.MeintHz</a>.</p>
+    </div>
+    <!-- Pie de página con información del proyecto -->
+    <footer id="footer-info" style="margin-top: 40px; padding: 20px; background-color: #edf2f7; text-align: center; border-radius: 8px; font-size: 14px; color: #2d3748;">
+        Esta es la versión 1.0, un diccionario ilustrado español-zapoteco organizado por categorías.
+        Es un proyecto libre, replicable sin fines de lucro. Todas las imagenes del diccionario son de uso abierto y gratuito del Banco de imágenes PalabraxPalabra. Laboratorio de Literacidad y Bilingüismo. Facultad de Filosofía. Universidad Autónoma de Querétaro. Traducciones pueden realizarse bajo la <a id="cc-link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" style="color:#3182ce;">licencia CC BY-NC-SA 4.0</a>.
+    </footer>
+
+    <!-- Conexión al archivo JavaScript para la funcionalidad interactiva -->
+    <script src="js/script.js"></script>
+</body>
+</html>
